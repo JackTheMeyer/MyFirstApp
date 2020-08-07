@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="AvatarTitle">BasicAvatar</string>
+    <string name="DefaultArt">BasicAvatar</string>
+</resources>
